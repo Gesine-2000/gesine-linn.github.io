@@ -1,4 +1,4 @@
-# Gesine Linn's Personal Website
+#Gesine Linn's Personal Website
 
 Welcome to the repository for my personal website, hosted via GitHub Pages. This site showcases my professional background, portfolio, and projects, along with other relevant information related to my academic and professional journey.
 
