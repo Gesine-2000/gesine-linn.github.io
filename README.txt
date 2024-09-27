@@ -7,6 +7,7 @@ This website serves as a digital portfolio, highlighting my academic work, proje
 Repository Structure
 
 Key Pages:
+
 index.html: The homepage, providing an overview of who I am and a link to key sections.
 about.html: Information about my background, studies, and career.
 portfolio.html: A collection of projects and work that I have completed.
